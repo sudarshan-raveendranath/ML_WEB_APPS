@@ -29,8 +29,8 @@ This project provides a **FastAPI-based REST API** for predicting diabetes using
 ## 🛠️ Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/diabetes-prediction-api.git
-cd diabetes-prediction-api
+git clone https://github.com/sudarshan-raveendranath/ML_WEB_APPS.git
+cd diabetes prediction as FAST API
 ```
 
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended)
@@ -56,7 +56,7 @@ The machine learning model is trained using **Support Vector Machine (SVM)** in 
 Navigate to the `API` folder and start the FastAPI server using **Uvicorn**:
 ```sh
 cd API
-uvicorn ML_API:app --reload
+uvicorn ML_API:app
 ```
 By default, the API will be accessible at:  
 🔗 **http://127.0.0.1:8000**
@@ -120,9 +120,6 @@ data = {
 response = requests.post(url, json=data)
 print("API Response:", response.json())
 ```
-
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ## 📧 Contact
 For any questions or support, reach out to:  
