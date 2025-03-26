@@ -123,7 +123,7 @@ print("API Response:", response.json())
 
 ## 📧 Contact
 For any questions or support, reach out to:  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-🔗 GitHub: [github.com/your-username](https://github.com/your-username)
+📧 Email: [your-email@example.com](mailto:sudarshan27922@gmail.com)  
+🔗 GitHub: [github.com/your-username](https://github.com/sudarshan-raveendranath)
 
 ---
