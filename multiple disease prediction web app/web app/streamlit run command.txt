@@ -1,0 +1,1 @@
+streamlit run "C:\Users\user\Desktop\learning\MY ML WEB APPS\multiple disease prediction web app\web app\multiple_disease_pred.py"
